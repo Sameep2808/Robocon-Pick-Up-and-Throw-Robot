@@ -1,5 +1,4 @@
-# CyberKnife
-## Badges
+# Robocon Pickup and Thrw Robot
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Authors
 - [Sameep Pote](https://github.com/Sameep2808) - Graduate student at University of Maryland pursuing M.Eng. Robotics.Loves to watch animes.
@@ -12,6 +11,5 @@
 ## Pickup and Throw Mechanism
 ![g2](https://github.com/Sameep2808/Robocon-Pick-Up-and-Throw-Robot/blob/main/gif/2.gif)
 
-## Functional Diagram
 
 
