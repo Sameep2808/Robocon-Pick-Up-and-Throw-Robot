@@ -6,9 +6,11 @@
 
 ## Overview
 
-## Steering Mechanism 
+## Robot Movement
+![g1](https://github.com/Sameep2808/Robocon-Pick-Up-and-Throw-Robot/blob/main/gif/g1.gif)
 
-## Parking and obstacle detection
+## Pickup and Throw Mechanism
+![g2](https://github.com/Sameep2808/Robocon-Pick-Up-and-Throw-Robot/blob/main/gif/2.gif)
 
 ## Functional Diagram
 
